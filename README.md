@@ -13,10 +13,10 @@ Collected methods of mutation detection from WGS/WES
 - [MuSiC-SMG/MutSigCV](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/MutSigCV) 
 - [Docker-MutSigCV](https://hub.docker.com/r/argrosso/mutsigcv/)
 Identify genes mutated more frequently than background mutation rate based on patient-based factors and genomic position-based factors.
--- The patient-based factors include:
+ - The patient-based factors include:
 overall mutation rate
 overall mutational spectrum (e.g., the percentages of mutations that are transitions of certain types, transversions of certain types, and/or nonsense)
--- The genomic position-based factors include:
+ - The genomic position-based factors include:
 gene expression levels.
 DNA replication timing.
 HiC-based chromatin state estimation.
